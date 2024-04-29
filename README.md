@@ -15,6 +15,8 @@ challenge through a series of comprehensive mini-projects designed to demystify 
 analysis. We aim to facilitate smooth entry into the field for aspiring researchers.
 
 ## Content
+![table of content](./Figures/table_of_content.png)
+
 To reach our goal, I have developed 8 mini-projects for this project:
 1. Evaluation of Neonatal Brain Tissue Development Using Diffusion MRI
 2. HIE rat brain imaging data processing and analysis

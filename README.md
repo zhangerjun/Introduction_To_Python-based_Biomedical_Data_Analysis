@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Visit-our%20project%20page-ff69b4)](https://github.com/zhangerjun/Introduction_To_Python-based_Biomedical_Data_Analysis)
+[![Static Badge](https://img.shields.io/badge/Visit-our_main_project_page-ff69b4)](https://github.com/zhangerjun/Introduction_To_Python-based_Biomedical_Data_Analysis)
 # An Introduction To Python-based Biomedical Data Analysis
 *Erjun Zhang* (Institute of Biomedical Engineering, Polytechnique Montreal; NeuroPoly Lab, Polytechnique Montreal; 
 Magic Lab, CHU Sainte-Justine Research Center, University of Montreal)
@@ -11,17 +11,19 @@ challenge through a series of comprehensive mini-projects designed to demystify 
 analysis. We aim to facilitate smooth entry into the field for aspiring researchers.
 
 ## Content
-![table of content](./Figures/table_of_content.png)
-
 To reach our goal, I have developed 8 mini-projects for this project:
-1. Evaluation of Neonatal Brain Tissue Development Using Diffusion MRI
-2. HIE rat brain imaging data processing and analysis
-3. dMRI Processing Protocol and Reconstruction
-4. Use DTITK To Build Template And Do Registration
-5. Diffusion MRI reconstruction: code build from scratch
-6. Use machine learning to segment cell: UNet Model
-7. Preterm or term baby prediction age prediction
-8. Useful algorithms for data processing and analysis
+
+[![Static Badge](https://img.shields.io/badge/Visit-our_mini--project_1_page-ff69b4)](https://github.com/zhangerjun/dMRI_data_analysis)
+[![Static Badge](https://img.shields.io/badge/Visit-our_mini--project_2_page-ff69b4)](https://github.com/zhangerjun/HIE_brain_MRI)
+[![Static Badge](https://img.shields.io/badge/Visit-our_mini--project_3_page-ff69b4)](https://github.com/brainhack-school2020/BHS_Project_dMRI)
+[![Static Badge](https://img.shields.io/badge/Visit-our_mini--project_4_page-ff69b4)](https://github.com/zhangerjun/DTI-TK-Build-Template)
+[![Static Badge](https://img.shields.io/badge/Visit-our_mini--project_5_page-ff69b4)](https://github.com/zhangerjun/dMRI_reconstrcution_from_scratch)
+[![Static Badge](https://img.shields.io/badge/Visit-our_mini--project_6_page-ff69b4)](https://github.com/zhangerjun/UNet_model)
+[![Static Badge](https://img.shields.io/badge/Visit-our_mini--project_7_page-ff69b4)](https://github.com/zhangerjun/age_predict_based_on_dmri)
+[![Static Badge](https://img.shields.io/badge/Visit-our_mini--project_8_page-ff69b4)](https://github.com/zhangerjun/ML-basic-algorithms)
+
+![table of content](./Figures/Introduction_of_Python-based_Medical_Data_Analysis.png)
+
 
 Each mini-project uses open-source bioimaging data and popular programming language Python to complete data
 preprocessing, reconstruction, and visualization. We will document every step of the process and make all materials

@@ -51,10 +51,8 @@ This ongoing bio-imaging project, An Introduction to Python-based Bio-Medical Da
 mini-projects derived from the applicant’s early research experience. Each mini-project focuses on a specific aspect of
 bio-imaging data processing and analysis, with corresponding GitHub repositories containing code, data, results, reports,
 posters, slides, and video presentations. All the materials are openly accessible, promoting collaboration and learning
-among researchers from diverse backgrounds. Notably, the project has facilitated the smooth entry of 8 participants into
-the bio-imaging field within a year and has gained popularity within the neuroscience club of one college. It is expected
-to impact several tens of others in health science-related fields in 2024.
+among researchers from diverse backgrounds. It will be updated each week and is expected to complete by the end of 2024.
 
 *Acknowledgement*
 
-We extend our sincere gratitude to the potential institute and orgernization for their invaluable financial support for this mini-project. Our heartfelt thanks also go out to TransMedTech for generously providing us with a conducive and comfortable working environment and support. Finally, we would like to thank our supervisor Dr. De Leener, and Dr. Lodygensky for their supports throughout this project.
+The main work of this project are done at Magic lab in CHU Sainte-justine hospital research center (UdeM) and at NeuroPoly Lab in Polytechnique Montreal. Part of them are completed by participants from different institute: University of Montreal, Dawson College, University of Waterloo and University of Albert. We thank TransMedTech Institute for generously providing us with a conducive and comfortable working environment and support. I also would like to thank my supervisor Dr. De Leener, and Dr. Lodygensky for their supports throughout this project.

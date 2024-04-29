@@ -22,6 +22,7 @@ To reach our goal, I have developed 8 mini-projects for this project:
 [![Static Badge](https://img.shields.io/badge/Visit-our_mini--project_7_page-ff69b4)](https://github.com/zhangerjun/age_predict_based_on_dmri)
 [![Static Badge](https://img.shields.io/badge/Visit-our_mini--project_8_page-ff69b4)](https://github.com/zhangerjun/ML-basic-algorithms)
 
+*Table of contents*
 ![table of content](./Figures/Introduction_of_Python-based_Medical_Data_Analysis.png)
 
 
@@ -30,11 +31,7 @@ preprocessing, reconstruction, and visualization. We will document every step of
 freely available on GitHub
 
 ## Scope
-Our project encompasses a broad spectrum of bio-imaging research, covering data acquisition, preprocessing, recon-
-struction, and visualization. By utilizing diverse datasets, including human brain MRI, rodent brain MRI, and cell
-optical imaging, participants gain exposure to a wide range of imaging in modalities and analytical techniques. From
-user-friendly software applications like ITKSNAP and FSLEYES to coding in Python, our project equips participants
-with essential skills applicable across various bio-imaging disciplines.
+![scope](./Figures/Project_scope.png)
 
 ## Originality
 This project draws inspiration from Taoist philosophy: the Great Way is simple (Laozi). It challenges traditional barriers

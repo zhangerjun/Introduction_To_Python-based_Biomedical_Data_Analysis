@@ -1,3 +1,4 @@
+[![](https://img.shields.io/badge/Visit-our%20project%20page-ff69b4)](https://github.com/zhangerjun/Introduction_To_Python-based_Biomedical_Data_Analysis)
 # An Introduction To Python-based Biomedical Data Analysis
 *Erjun Zhang* (Institute of Biomedical Engineering, Polytechnique Montreal; NeuroPoly Lab, Polytechnique Montreal; 
 Magic Lab, CHU Sainte-Justine Research Center, University of Montreal)

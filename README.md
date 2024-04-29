@@ -46,6 +46,15 @@ repositories as open-source resources.
 4. The participants collaborate with each other and the applicant, fostering mutual learning and teaching.
 5. Our completed mini-project demonstrates that these mini-projects and methods can be effectively embraced by
 college and early-year university students, thereby inspiring future learners.
+
+## Dependencies
+All the experiments can be completed online using either Windows, Mac or Linux computer.
+* [Python 3](https://dti-tk.sourceforge.net/pmwiki/pmwiki.php?n=Main.HomePage), [Google colab notebooks](https://colab.research.google.com/) (or [Jupyter notebook](https://jupyter.org/))
+
+* [DIPY](https://dipy.org/): nifti file loader and saver;
+* Matplotlib, ipython widgets: data visualization;
+* Useful tools: [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php) for viewing nifti files locally, fsl-bet for creating human brain masks.
+
 ## Conclusion
 This ongoing bio-imaging project, An Introduction to Python-based Bio-Medical Data Analysis, consists of 8 case-based
 mini-projects derived from the applicant’s early research experience. Each mini-project focuses on a specific aspect of

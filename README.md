@@ -1,11 +1,6 @@
 # An Introduction To Python-based Biomedical Data Analysis
-*Erjun Zhang*
-
-Institute of Biomedical Engineering, Polytechnique Montreal
-
-NeuroPoly Lab, Polytechnique Montreal
-
-Magic Lab, CHU Sainte-Justine Research Center, University of Montreal
+*Erjun Zhang* (Institute of Biomedical Engineering, Polytechnique Montreal; NeuroPoly Lab, Polytechnique Montreal; 
+Magic Lab, CHU Sainte-Justine Research Center, University of Montreal)
 
 ## Introduction
 Initiating a career in bio-imaging can be daunting, particularly for newcomers. It may take them years before stepping
